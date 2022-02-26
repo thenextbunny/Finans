@@ -1,29 +1,56 @@
-/*nav*/
-li {padding: 0 4px 0 4px;}
+/* Layout */
 
-/*home*/
-#home {
+/* All */
+header, #main, footer {
 	background: #ffc107;
-	color: white;
-	padding: 0 10px 0 10px;}
-
-/*posts*/
-.box {;
-	border-bottom: 1px solid #e5e5e5;}
-
-.padds {padding: 30px 20px 30px 20px;}
-.padds p {text-align: justify;}
-.box img {text-align: center; padding: 10px 0 10px 0;}
-a {text-decoration: none;}
-
-/*media queries*/
-@media (max-width: 767.98px) {
-	img.needsmall {width: 50%;}
 }
 
-footer {background: #ffc107; padding: 10px;}
-footer a {margin-left: 5px;}
+section {
+	border-bottom: 1px solid #e5e5e5;
+	padding: 30px 20px;
+}
 
-img {position: center;}
+section p {
+	text-align: justify;
+}
 
-.borda {border: 1px solid red;}
+/* Navegation */
+header li {
+	padding: 4px;
+}
+
+h1, p, h4 {
+	cursor: default;
+}
+
+img {
+	margin: auto;
+	display: block;
+}
+
+/* Main */
+#main {
+	background: #ffc107;
+	color: #FFF;
+	padding: 0 10px;
+}
+
+/* Fifth */
+#fifth a {
+	text-decoration: none;
+	color: #ffc107;
+}
+
+#fifth a:hover {
+	text-decoration: underline;
+}
+
+/* Footer */
+footer {
+	padding: 10px;
+}
+
+footer a {
+	margin-left: 5px;
+}
+
