@@ -1,0 +1,70 @@
+* {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+header li {
+	padding: 4px;
+}
+
+header, main, footer {
+	background: #ffc107;
+}
+
+main {
+	color: #FFF;
+	height: 90vh;
+	padding: 0 10px;
+}
+
+section {
+	border-bottom: 1px solid #e5e5e5;
+	padding: 30px 20px;
+}
+
+section p {
+	text-align: justify;
+}
+
+#fifth a {
+	text-decoration: none;
+	color: #ffc107;
+}
+
+#fifth a:hover {
+	text-decoration: underline;
+}
+
+footer {
+	padding: 10px;
+}
+
+footer a {
+	margin-left: 5px;
+}
+
+/* My social networks */
+.thenextbunny {
+	color: white;
+    font-size: 15px;
+}
+
+.thenextbunny p {
+	padding: 5px 0;
+	margin: 0;
+}
+
+.thenextbunny img {
+    -webkit-filter: invert(100%) sepia(31%) saturate(0%) hue-rotate(241deg) brightness(115%) contrast(101%);
+    filter: invert(100%) sepia(31%) saturate(0%) hue-rotate(241deg) brightness(115%) contrast(101%);
+	height: 30px;
+    width: 30px;
+}
+
+.thenextbunny img:hover {
+    -webkit-filter: invert(50%) sepia(76%) saturate(1872%) hue-rotate(176deg) brightness(98%) contrast(90%);
+    filter: invert(50%) sepia(76%) saturate(1872%) hue-rotate(176deg) brightness(98%) contrast(90%)
+}
