@@ -13,4 +13,7 @@
     <li>HTML5</li>
     <li>CSS3</li>
   </ul>
+
+  <h3>Imagem</h3>
+  <img src="https://user-images.githubusercontent.com/99208505/180584318-0ee21f6b-965a-4a3d-aa30-429fdb99fdd4.png">
 </div>

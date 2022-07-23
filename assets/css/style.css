@@ -4,20 +4,21 @@
 	margin: 0;
 	padding: 0;
 	outline: 0;
-}
-
-header li {
-	padding: 4px;
-}
-
-header, main, footer {
-	background: #ffc107;
+	text-decoration: none;
 }
 
 main {
 	color: #FFF;
 	height: 90vh;
 	padding: 0 10px;
+}
+
+main, header, footer {
+	background: #ffc107;
+}
+
+header li {
+	padding: 4px;
 }
 
 section {
@@ -30,20 +31,11 @@ section p {
 }
 
 #fifth a {
-	text-decoration: none;
 	color: #ffc107;
 }
 
 #fifth a:hover {
 	text-decoration: underline;
-}
-
-footer {
-	padding: 10px;
-}
-
-footer a {
-	margin-left: 5px;
 }
 
 /* My social networks */
