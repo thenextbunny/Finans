@@ -15,5 +15,5 @@
   </ul>
 
   <h3>Imagem</h3>
-  <img src="https://user-images.githubusercontent.com/99208505/180584318-0ee21f6b-965a-4a3d-aa30-429fdb99fdd4.png">
+  <img src="https://user-images.githubusercontent.com/99208505/185437047-37a9f78e-1af7-4ca4-8c93-dfa46c9e5556.png" alt="Imagem da página final do projeto">
 </div>
